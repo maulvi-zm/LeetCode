@@ -11,15 +11,13 @@ class NumMatrix {
                 for (int j = 0; j < matrix[i].size(); j++){
                     temp += matrix[i][j];
                     row.push_back(temp);
+
+                    if (i > 0){
+                        row[j] += prefix[i-1][j];
+                    }
                 }
 
                 prefix.push_back(row);
-            }
-
-            for (int i = 1; i < matrix.size(); i++){
-                for (int j = 0; j < matrix[i].size(); j++){
-                    prefix[i][j] += prefix[i-1][j];
-                }
             }
         }
         
