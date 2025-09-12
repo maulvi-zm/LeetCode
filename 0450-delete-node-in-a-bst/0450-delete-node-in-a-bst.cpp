@@ -12,50 +12,30 @@
 class Solution {
 public:
     TreeNode* deleteNode(TreeNode* root, int key) {
-        if (!root) return root;
-        else if (key > root->val) {
+        if (!root) return nullptr;
+
+        if (key > root->val){
             root->right = deleteNode(root->right, key);
-        } else if (key < root->val) {
+        } else if (key < root->val){
             root->left = deleteNode(root->left, key);
-        } else if (key == root->val){
-            TreeNode* left = root->left;
-            TreeNode* right = root->right;
+        } else {
+            // Found
+            if (!root->left){
+                return root->right;
+            } else if (!root->right){
+                return root->left;
+            }
 
-            root = nullptr;
-            if (right){
-                root = new TreeNode(findMinAndDelete(right));
-                root->right = right;
-                root->left = left;
-            } else if (left) {
-                root = new TreeNode(findMaxAndDelete(left));
-                root->right = right;
-                root->left = left;
-            } 
-
+            TreeNode* minNode = findMin(root->right);
+            root->val = minNode->val;
+            root->right = deleteNode(root->right, minNode->val);
         }
 
         return root;
     }
-private:
-    int findMaxAndDelete(TreeNode*& root){
-        if (root->right) {
-            return findMaxAndDelete(root->right);
-        }
 
-        int val = root->val;
-        root = root->left;
-        
-        return val;
-    }
-
-    int findMinAndDelete(TreeNode*& root){
-        if (root->left){
-            return findMinAndDelete(root->left);
-        }
-
-        int val = root->val;
-        root = root->right;
-
-        return val;
+    TreeNode* findMin(TreeNode* node){
+        while (node->left) node = node->left;
+        return node;
     }
 };
