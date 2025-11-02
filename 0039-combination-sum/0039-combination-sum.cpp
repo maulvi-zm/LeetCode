@@ -1,30 +1,28 @@
 class Solution {
 public:
-    bool dfs(vector<vector<int>>& res, vector<int>& candidates,
-             vector<int>& curr, int target, int idx) {
-        if (std::accumulate(curr.begin(), curr.end(), 0) > target) {
-            return false;
+    void dfs(vector<vector<int>>& res, vector<int>& candidates,
+             vector<int>& curr, int target, int idx, int currSum) {
+        if (currSum > target) {
+            return;
         }
 
-        if (std::accumulate(curr.begin(), curr.end(), 0) == target) {
+        if (currSum == target) {
             res.push_back(curr);
-            return true;
+            return;
         }
 
         for (int i = idx; i < candidates.size(); i++) {
             curr.push_back(candidates[i]);
-            dfs(res, candidates, curr, target, i);
+            dfs(res, candidates, curr, target, i, currSum + candidates[i]);
             curr.pop_back();
         }
-
-        return true;
     }
 
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
         vector<vector<int>> res;
         vector<int> curr ;
 
-        dfs(res, candidates, curr, target, 0);
+        dfs(res, candidates, curr, target, 0, 0);
 
         return res;
     }
