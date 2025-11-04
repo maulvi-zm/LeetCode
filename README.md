@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/maulvi-zm/LeetCode/tree/master/0146-lru-cache) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/maulvi-zm/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -75,4 +76,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/maulvi-zm/LeetCode/tree/master/0001-two-sum) |
+| [0146-lru-cache](https://github.com/maulvi-zm/LeetCode/tree/master/0146-lru-cache) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/maulvi-zm/LeetCode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/maulvi-zm/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
