@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/maulvi-zm/LeetCode/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/maulvi-zm/LeetCode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/maulvi-zm/LeetCode/tree/master/0078-subsets) |
 | [0215-kth-largest-element-in-an-array](https://github.com/maulvi-zm/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -70,4 +71,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/maulvi-zm/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/maulvi-zm/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
