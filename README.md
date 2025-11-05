@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/maulvi-zm/LeetCode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/maulvi-zm/LeetCode/tree/master/0078-subsets) |
 | [0215-kth-largest-element-in-an-array](https://github.com/maulvi-zm/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0816-design-hashset](https://github.com/maulvi-zm/LeetCode/tree/master/0816-design-hashset) |
 | [1014-k-closest-points-to-origin](https://github.com/maulvi-zm/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/maulvi-zm/LeetCode/tree/master/1127-last-stone-weight) |
 ## Backtracking
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0146-lru-cache](https://github.com/maulvi-zm/LeetCode/tree/master/0146-lru-cache) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/maulvi-zm/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0816-design-hashset](https://github.com/maulvi-zm/LeetCode/tree/master/0816-design-hashset) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -77,12 +79,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/maulvi-zm/LeetCode/tree/master/0001-two-sum) |
 | [0146-lru-cache](https://github.com/maulvi-zm/LeetCode/tree/master/0146-lru-cache) |
+| [0816-design-hashset](https://github.com/maulvi-zm/LeetCode/tree/master/0816-design-hashset) |
 ## Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/maulvi-zm/LeetCode/tree/master/0146-lru-cache) |
+| [0816-design-hashset](https://github.com/maulvi-zm/LeetCode/tree/master/0816-design-hashset) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/maulvi-zm/LeetCode/tree/master/0146-lru-cache) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/maulvi-zm/LeetCode/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
