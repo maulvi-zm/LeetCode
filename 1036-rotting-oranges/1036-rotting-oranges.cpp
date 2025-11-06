@@ -7,12 +7,15 @@ class Solution {
         int dirs[4][2] = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
 
         int total_minutes = 0;
+        int fresh = 0;
 
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
                 if (grid[i][j] == 2) {
                     q.push({i, j});
                     grid[i][j] = 0;
+                } else if (grid[i][j] == 1){
+                    fresh++;
                 }
             }
         }
@@ -29,7 +32,8 @@ class Solution {
                     if (nr >= 0 && nr < m && nc >= 0 && nc < n &&
                         grid[nr][nc] == 1) {
                         q.push({nr, nc});
-                        grid[nr][nc] = 0;
+                        grid[nr][nc] = 2;
+                        fresh--;
                     }
                 }
             }
@@ -37,15 +41,6 @@ class Solution {
             total_minutes++;
         }
 
-
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (grid[i][j] == 1) {
-                    return -1;
-                }
-            }
-        }
-
-        return max(total_minutes - 1, 0); 
+        return fresh > 0 ? -1 : max(total_minutes - 1, 0); 
     }
 };
