@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/maulvi-zm/LeetCode/tree/master/0001-two-sum) |
+| [0133-clone-graph](https://github.com/maulvi-zm/LeetCode/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/maulvi-zm/LeetCode/tree/master/0146-lru-cache) |
 | [0816-design-hashset](https://github.com/maulvi-zm/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/maulvi-zm/LeetCode/tree/master/0817-design-hashmap) |
@@ -106,11 +107,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/maulvi-zm/LeetCode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/maulvi-zm/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/maulvi-zm/LeetCode/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/maulvi-zm/LeetCode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/maulvi-zm/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/maulvi-zm/LeetCode/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/maulvi-zm/LeetCode/tree/master/1036-rotting-oranges) |
@@ -132,4 +135,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/maulvi-zm/LeetCode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
+## Graph
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/maulvi-zm/LeetCode/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
