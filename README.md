@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/maulvi-zm/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/maulvi-zm/LeetCode/tree/master/0070-climbing-stairs) |
 | [1014-k-closest-points-to-origin](https://github.com/maulvi-zm/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/maulvi-zm/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/maulvi-zm/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/maulvi-zm/LeetCode/tree/master/0198-house-robber) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/maulvi-zm/LeetCode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -158,4 +160,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/maulvi-zm/LeetCode/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/maulvi-zm/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
