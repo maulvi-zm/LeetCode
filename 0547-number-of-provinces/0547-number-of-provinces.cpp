@@ -2,6 +2,7 @@ class DSU{
 private:
     vector<int> parent;
     vector<int> rank;
+    int total_tree;
 public: 
     DSU(int n){
         rank.resize(n, 0);
@@ -10,6 +11,8 @@ public:
         for (int i = 0; i < n; i++){
             parent[i] = i;
         }
+
+        total_tree = n;
     }
 
     int find(int x){
@@ -33,16 +36,13 @@ public:
                 parent[root_x] = root_y;
                 rank[root_y]++;
             }
+
+            total_tree--;
         }
     }
 
     int getTotalRoot(){
-        int res = 0;
-        for (int i = 0; i < parent.size(); i++){
-            if (parent[i] == i) res++;
-        }
-
-        return res;
+        return total_tree;
     }
 };
 
