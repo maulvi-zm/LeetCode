@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/maulvi-zm/LeetCode/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/maulvi-zm/LeetCode/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/maulvi-zm/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/maulvi-zm/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/maulvi-zm/LeetCode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Backtracking
 |  |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/maulvi-zm/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/maulvi-zm/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1753-path-with-minimum-effort](https://github.com/maulvi-zm/LeetCode/tree/master/1753-path-with-minimum-effort) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -65,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-kth-largest-element-in-a-stream](https://github.com/maulvi-zm/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/maulvi-zm/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/maulvi-zm/LeetCode/tree/master/1127-last-stone-weight) |
+| [1753-path-with-minimum-effort](https://github.com/maulvi-zm/LeetCode/tree/master/1753-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -138,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/maulvi-zm/LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/maulvi-zm/LeetCode/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/maulvi-zm/LeetCode/tree/master/0744-network-delay-time) |
+| [1753-path-with-minimum-effort](https://github.com/maulvi-zm/LeetCode/tree/master/1753-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -151,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-network-delay-time](https://github.com/maulvi-zm/LeetCode/tree/master/0744-network-delay-time) |
 | [1036-rotting-oranges](https://github.com/maulvi-zm/LeetCode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/maulvi-zm/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/maulvi-zm/LeetCode/tree/master/1753-path-with-minimum-effort) |
 ## Union Find
 |  |
 | ------- |
@@ -159,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/maulvi-zm/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/maulvi-zm/LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/maulvi-zm/LeetCode/tree/master/0695-max-area-of-island) |
+| [1753-path-with-minimum-effort](https://github.com/maulvi-zm/LeetCode/tree/master/1753-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
@@ -169,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1022-unique-paths-iii](https://github.com/maulvi-zm/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/maulvi-zm/LeetCode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/maulvi-zm/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/maulvi-zm/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/maulvi-zm/LeetCode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Dynamic Programming
 |  |
