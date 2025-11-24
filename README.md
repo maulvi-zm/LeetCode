@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/maulvi-zm/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/maulvi-zm/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/maulvi-zm/LeetCode/tree/master/0039-combination-sum) |
+| [0053-maximum-subarray](https://github.com/maulvi-zm/LeetCode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/maulvi-zm/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/maulvi-zm/LeetCode/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/maulvi-zm/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/maulvi-zm/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/maulvi-zm/LeetCode/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/maulvi-zm/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/maulvi-zm/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/maulvi-zm/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -180,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/maulvi-zm/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/maulvi-zm/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/maulvi-zm/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/maulvi-zm/LeetCode/tree/master/0070-climbing-stairs) |
