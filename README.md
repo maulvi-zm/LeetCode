@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/maulvi-zm/LeetCode/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/maulvi-zm/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/maulvi-zm/LeetCode/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/maulvi-zm/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/maulvi-zm/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/maulvi-zm/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0695-max-area-of-island](https://github.com/maulvi-zm/LeetCode/tree/master/0695-max-area-of-island) |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/maulvi-zm/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0209-minimum-size-subarray-sum](https://github.com/maulvi-zm/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/maulvi-zm/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1753-path-with-minimum-effort](https://github.com/maulvi-zm/LeetCode/tree/master/1753-path-with-minimum-effort) |
 ## Heap (Priority Queue)
@@ -242,7 +244,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/maulvi-zm/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/maulvi-zm/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1020-longest-turbulent-subarray](https://github.com/maulvi-zm/LeetCode/tree/master/1020-longest-turbulent-subarray) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/maulvi-zm/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/maulvi-zm/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
