@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0817-design-hashmap](https://github.com/maulvi-zm/LeetCode/tree/master/0817-design-hashmap) |
 | [0954-maximum-sum-circular-subarray](https://github.com/maulvi-zm/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1014-k-closest-points-to-origin](https://github.com/maulvi-zm/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1020-longest-turbulent-subarray](https://github.com/maulvi-zm/LeetCode/tree/master/1020-longest-turbulent-subarray) |
 | [1022-unique-paths-iii](https://github.com/maulvi-zm/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/maulvi-zm/LeetCode/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/maulvi-zm/LeetCode/tree/master/1127-last-stone-weight) |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/maulvi-zm/LeetCode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/maulvi-zm/LeetCode/tree/master/0338-counting-bits) |
 | [0954-maximum-sum-circular-subarray](https://github.com/maulvi-zm/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+| [1020-longest-turbulent-subarray](https://github.com/maulvi-zm/LeetCode/tree/master/1020-longest-turbulent-subarray) |
 | [1250-longest-common-subsequence](https://github.com/maulvi-zm/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/maulvi-zm/LeetCode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Graph
@@ -234,4 +236,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/maulvi-zm/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [1020-longest-turbulent-subarray](https://github.com/maulvi-zm/LeetCode/tree/master/1020-longest-turbulent-subarray) |
 <!---LeetCode Topics End-->
