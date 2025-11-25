@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/maulvi-zm/LeetCode/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/maulvi-zm/LeetCode/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/maulvi-zm/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/maulvi-zm/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1753-path-with-minimum-effort](https://github.com/maulvi-zm/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/maulvi-zm/LeetCode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Backtracking
@@ -243,4 +244,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/maulvi-zm/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1020-longest-turbulent-subarray](https://github.com/maulvi-zm/LeetCode/tree/master/1020-longest-turbulent-subarray) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/maulvi-zm/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
