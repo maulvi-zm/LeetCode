@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/maulvi-zm/LeetCode/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/maulvi-zm/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/maulvi-zm/LeetCode/tree/master/0130-surrounded-regions) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/maulvi-zm/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/maulvi-zm/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/maulvi-zm/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/maulvi-zm/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/maulvi-zm/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/maulvi-zm/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/maulvi-zm/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/maulvi-zm/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1753-path-with-minimum-effort](https://github.com/maulvi-zm/LeetCode/tree/master/1753-path-with-minimum-effort) |
@@ -234,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/maulvi-zm/LeetCode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/maulvi-zm/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/maulvi-zm/LeetCode/tree/master/0295-find-median-from-data-stream) |
 ## Shortest Path
 |  |
