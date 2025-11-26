@@ -3,17 +3,12 @@ public:
     int removeDuplicates(vector<int>& nums) {
         int l = 0, n = nums.size();
 
-        int count = 1;
-        for (int r = 1; r < n; r++){
-            if (nums[r] != nums[r-1]){
-                nums[++l] = nums[r];
-                count = 1;
-            } else if (count < 2){
-                nums[++l] = nums[r];
-                count++;
+        for (int r = 0; r < n; r++){
+            if (l < 2 || nums[r] != nums[l - 2]){
+                nums[l++] = nums[r];
             }
         }
 
-        return l + 1;
+        return l;
     }
 };
