@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/maulvi-zm/LeetCode/tree/master/0146-lru-cache) |
 | [0816-design-hashset](https://github.com/maulvi-zm/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/maulvi-zm/LeetCode/tree/master/0817-design-hashmap) |
+| [0908-middle-of-the-linked-list](https://github.com/maulvi-zm/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -256,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/maulvi-zm/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/maulvi-zm/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/maulvi-zm/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0908-middle-of-the-linked-list](https://github.com/maulvi-zm/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Shortest Path
 |  |
 | ------- |
