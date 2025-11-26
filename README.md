@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/maulvi-zm/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/maulvi-zm/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/maulvi-zm/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/maulvi-zm/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/maulvi-zm/LeetCode/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/maulvi-zm/LeetCode/tree/master/0724-find-pivot-index) |
 | [0816-design-hashset](https://github.com/maulvi-zm/LeetCode/tree/master/0816-design-hashset) |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/maulvi-zm/LeetCode/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/maulvi-zm/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/maulvi-zm/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/maulvi-zm/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0816-design-hashset](https://github.com/maulvi-zm/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/maulvi-zm/LeetCode/tree/master/0817-design-hashmap) |
 ## Linked List
@@ -282,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/maulvi-zm/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/maulvi-zm/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/maulvi-zm/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/maulvi-zm/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/maulvi-zm/LeetCode/tree/master/0724-find-pivot-index) |
 ## Greedy
 |  |
