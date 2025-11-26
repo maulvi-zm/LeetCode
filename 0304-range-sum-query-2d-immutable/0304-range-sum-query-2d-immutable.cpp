@@ -1,33 +1,43 @@
 class NumMatrix {
-    private:
-        vector<vector<int>> prefix;
-    public:
-        NumMatrix(vector<vector<int>>& matrix) {
+private:
+    vector<vector<int>> prefix;
+public:
+    NumMatrix(vector<vector<int>>& matrix) {
+        prefix.assign(matrix.size(), vector<int>(matrix[0].size(), 0));
+        for (int i = 0; i < matrix.size(); i++){
+            int sum = 0;
+            for (int j = 0; j < matrix[0].size(); j++){
+                sum += matrix[i][j];
 
-            for (int i = 0; i < matrix.size(); i++){
-                vector<int> row;
-                int temp = 0;
-
-                for (int j = 0; j < matrix[i].size(); j++){
-                    temp += matrix[i][j];
-                    row.push_back(temp);
-
-                    if (i > 0){
-                        row[j] += prefix[i-1][j];
-                    }
+                int add = sum;
+                if (i > 0){
+                    add += prefix[i-1][j];
                 }
-
-                prefix.push_back(row);
+                
+                prefix[i][j] = add;
             }
         }
-        
-        int sumRegion(int row1, int col1, int row2, int col2) {
-            int left_down = row1 > 0 ? prefix[row1-1][col2] : 0;
-            int right_up = col1 > 0 ? prefix[row2][col1-1] : 0;
-            int corner = (row1 > 0 && col1 > 0) ? prefix[row1-1][col1-1] : 0;
 
-            return prefix[row2][col2] - left_down - right_up + corner;
+        for (auto row: prefix){
+            for (auto num: row){
+                cout << num << " ";
+            }
+
+            cout << endl;
         }
+    }
+    
+    int sumRegion(int row1, int col1, int row2, int col2) {
+        if (row1 > 0 && col1 > 0){
+            return prefix[row2][col2] - prefix[row1-1][col2] - prefix[row2][col1-1] + prefix[row1-1][col1-1];
+        } else if (row1 == 0 && col1 == 0){
+            return prefix[row2][col2];
+        } else if (row1 == 0){
+            return prefix[row2][col2] - prefix[row2][col1-1];
+        } else {
+            return prefix[row2][col2] - prefix[row1-1][col2];
+        }
+    }
 };
 
 /**
