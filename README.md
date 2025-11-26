@@ -227,11 +227,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/maulvi-zm/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/maulvi-zm/LeetCode/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/maulvi-zm/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1250-longest-common-subsequence](https://github.com/maulvi-zm/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/maulvi-zm/LeetCode/tree/master/0125-valid-palindrome) |
 | [0295-find-median-from-data-stream](https://github.com/maulvi-zm/LeetCode/tree/master/0295-find-median-from-data-stream) |
 ## Shortest Path
 |  |
