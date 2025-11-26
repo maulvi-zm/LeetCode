@@ -20,19 +20,19 @@ public:
         }
 
         ListNode* prev = nullptr;
-        while (slow->next){
+        while (slow){
             ListNode* next = slow->next;
             slow->next = prev;
             prev = slow;
             slow = next;
         }
-        slow->next = prev;
 
         int max_twin = INT_MIN;
         ListNode* left = head;
-        while (slow){
-            max_twin = max(max_twin, left->val + slow->val);
-            slow = slow->next;
+        ListNode* right = prev;
+        while (right){
+            max_twin = max(max_twin, left->val + right->val);
+            right = right->next;
             left = left->next;
         }
 
