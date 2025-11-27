@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/maulvi-zm/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/maulvi-zm/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/maulvi-zm/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/maulvi-zm/LeetCode/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/maulvi-zm/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/maulvi-zm/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/maulvi-zm/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0039-combination-sum](https://github.com/maulvi-zm/LeetCode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/maulvi-zm/LeetCode/tree/master/0078-subsets) |
+| [0212-word-search-ii](https://github.com/maulvi-zm/LeetCode/tree/master/0212-word-search-ii) |
 | [1022-unique-paths-iii](https://github.com/maulvi-zm/LeetCode/tree/master/1022-unique-paths-iii) |
 ## Bit Manipulation
 |  |
@@ -210,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/maulvi-zm/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0130-surrounded-regions](https://github.com/maulvi-zm/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/maulvi-zm/LeetCode/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/maulvi-zm/LeetCode/tree/master/0212-word-search-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/maulvi-zm/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0695-max-area-of-island](https://github.com/maulvi-zm/LeetCode/tree/master/0695-max-area-of-island) |
 | [1022-unique-paths-iii](https://github.com/maulvi-zm/LeetCode/tree/master/1022-unique-paths-iii) |
@@ -259,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/maulvi-zm/LeetCode/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/maulvi-zm/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/maulvi-zm/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/maulvi-zm/LeetCode/tree/master/0212-word-search-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/maulvi-zm/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1250-longest-common-subsequence](https://github.com/maulvi-zm/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Two Pointers
@@ -324,4 +328,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/maulvi-zm/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/maulvi-zm/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/maulvi-zm/LeetCode/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
