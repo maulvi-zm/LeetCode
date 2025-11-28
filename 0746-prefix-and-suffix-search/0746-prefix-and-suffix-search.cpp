@@ -17,17 +17,15 @@ public:
 
     void insert(string word, int wIdx){
         TrieNode* curr = root;
-        bool changeIdx = false;
+        curr->wordIndex = wIdx;
         for (char c: word){
             int idx = c - 'a';
             if (!curr->children[idx]){
                 curr->children[idx] = new TrieNode();
             }
 
-            if (changeIdx && wIdx > curr->children[idx]->wordIndex) curr->children[idx]->wordIndex = wIdx;
-            if (c == '{') changeIdx = true;
-
             curr = curr->children[idx];
+            curr->wordIndex = wIdx;
         }
     }
 
@@ -53,7 +51,6 @@ public:
     WordFilter(vector<string>& words) {
         for (int i = 0; i < words.size(); i++){
             for (int j = 0; j <= words[i].size(); j++){
-                cout << words[i].substr(j) + "{" + words[i] << endl;
                 dict.insert(words[i].substr(j) + "{" + words[i], i);
             }
         }
