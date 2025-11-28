@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/maulvi-zm/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/maulvi-zm/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0547-number-of-provinces](https://github.com/maulvi-zm/LeetCode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/maulvi-zm/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/maulvi-zm/LeetCode/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/maulvi-zm/LeetCode/tree/master/0744-network-delay-time) |
 | [1753-path-with-minimum-effort](https://github.com/maulvi-zm/LeetCode/tree/master/1753-path-with-minimum-effort) |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/maulvi-zm/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/maulvi-zm/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/maulvi-zm/LeetCode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/maulvi-zm/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/maulvi-zm/LeetCode/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/maulvi-zm/LeetCode/tree/master/0744-network-delay-time) |
 | [1036-rotting-oranges](https://github.com/maulvi-zm/LeetCode/tree/master/1036-rotting-oranges) |
@@ -207,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/maulvi-zm/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/maulvi-zm/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/maulvi-zm/LeetCode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/maulvi-zm/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/maulvi-zm/LeetCode/tree/master/0695-max-area-of-island) |
 | [1753-path-with-minimum-effort](https://github.com/maulvi-zm/LeetCode/tree/master/1753-path-with-minimum-effort) |
 ## Matrix
@@ -244,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/maulvi-zm/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/maulvi-zm/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/maulvi-zm/LeetCode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/maulvi-zm/LeetCode/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/maulvi-zm/LeetCode/tree/master/0744-network-delay-time) |
 ## Topological Sort
 |  |
