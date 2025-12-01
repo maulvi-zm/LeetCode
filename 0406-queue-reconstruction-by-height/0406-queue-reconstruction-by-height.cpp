@@ -24,7 +24,6 @@ public:
                     break;
             }
 
-            cout << pos << h << k << endl;
             res[pos][0] = h;
             res[pos][1] = k;
         }
