@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/maulvi-zm/LeetCode/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/maulvi-zm/LeetCode/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/maulvi-zm/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/maulvi-zm/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/maulvi-zm/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1753-path-with-minimum-effort](https://github.com/maulvi-zm/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/maulvi-zm/LeetCode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0406-queue-reconstruction-by-height](https://github.com/maulvi-zm/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0721-accounts-merge](https://github.com/maulvi-zm/LeetCode/tree/master/0721-accounts-merge) |
 | [1014-k-closest-points-to-origin](https://github.com/maulvi-zm/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/maulvi-zm/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
 ## Quickselect
 |  |
 | ------- |
@@ -254,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0954-maximum-sum-circular-subarray](https://github.com/maulvi-zm/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1020-longest-turbulent-subarray](https://github.com/maulvi-zm/LeetCode/tree/master/1020-longest-turbulent-subarray) |
 | [1250-longest-common-subsequence](https://github.com/maulvi-zm/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/maulvi-zm/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/maulvi-zm/LeetCode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Graph
 |  |
@@ -338,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/maulvi-zm/LeetCode/tree/master/0011-container-with-most-water) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/maulvi-zm/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
 ## Stack
 |  |
 | ------- |
