@@ -1,18 +1,8 @@
 class Solution {
-private:
-    bool hasOddNumberOfFactors(long long n) {
-        long long root = sqrt(n);
-        return root * root == n;
-    }
+// Note:
+// Basically if the number of factor from a number is odd, then it will be turned on in the end, So the objective is how to count number of perfect square number from 1 to n. The solution by simply returning sqrt(n);
 public:
     int bulbSwitch(int n) {
-        int res = 0;
-        for (int i = 1; i <= n; i++){
-            if (hasOddNumberOfFactors(i)){
-                res++;
-            }
-        }
-
-        return res;
+        return sqrt(n);
     }
 };
