@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0062-unique-paths](https://github.com/maulvi-zm/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/maulvi-zm/LeetCode/tree/master/0070-climbing-stairs) |
+| [0319-bulb-switcher](https://github.com/maulvi-zm/LeetCode/tree/master/0319-bulb-switcher) |
 | [1014-k-closest-points-to-origin](https://github.com/maulvi-zm/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -368,4 +369,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/maulvi-zm/LeetCode/tree/master/0729-my-calendar-i) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/maulvi-zm/LeetCode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
