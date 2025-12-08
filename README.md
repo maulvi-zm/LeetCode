@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/maulvi-zm/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1753-path-with-minimum-effort](https://github.com/maulvi-zm/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/maulvi-zm/LeetCode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2526-longest-increasing-subsequence-ii](https://github.com/maulvi-zm/LeetCode/tree/master/2526-longest-increasing-subsequence-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0307-range-sum-query-mutable](https://github.com/maulvi-zm/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0954-maximum-sum-circular-subarray](https://github.com/maulvi-zm/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1014-k-closest-points-to-origin](https://github.com/maulvi-zm/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [2526-longest-increasing-subsequence-ii](https://github.com/maulvi-zm/LeetCode/tree/master/2526-longest-increasing-subsequence-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -258,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1250-longest-common-subsequence](https://github.com/maulvi-zm/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/maulvi-zm/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/maulvi-zm/LeetCode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2526-longest-increasing-subsequence-ii](https://github.com/maulvi-zm/LeetCode/tree/master/2526-longest-increasing-subsequence-ii) |
 ## Graph
 |  |
 | ------- |
@@ -315,10 +318,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/maulvi-zm/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+| [2526-longest-increasing-subsequence-ii](https://github.com/maulvi-zm/LeetCode/tree/master/2526-longest-increasing-subsequence-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/maulvi-zm/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+| [2526-longest-increasing-subsequence-ii](https://github.com/maulvi-zm/LeetCode/tree/master/2526-longest-increasing-subsequence-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -363,12 +368,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/maulvi-zm/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0406-queue-reconstruction-by-height](https://github.com/maulvi-zm/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
+| [2526-longest-increasing-subsequence-ii](https://github.com/maulvi-zm/LeetCode/tree/master/2526-longest-increasing-subsequence-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/maulvi-zm/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0406-queue-reconstruction-by-height](https://github.com/maulvi-zm/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0729-my-calendar-i](https://github.com/maulvi-zm/LeetCode/tree/master/0729-my-calendar-i) |
+| [2526-longest-increasing-subsequence-ii](https://github.com/maulvi-zm/LeetCode/tree/master/2526-longest-increasing-subsequence-ii) |
 ## Ordered Set
 |  |
 | ------- |
